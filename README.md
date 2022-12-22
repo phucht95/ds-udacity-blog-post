@@ -1,10 +1,6 @@
 # Project: Writing a Data Scientist Blog Post - Udacity
 Through this project, I want to understand more about CRISP-DM process
 
-## Dataset
-Stack Overflow Data - 2017 Survey
-Data Link: https://www.kaggle.com/datasets/stackoverflow/so-survey-2017
-
 ## Blog link
 Link to blog: http://phucht2-bucket.s3-website-us-west-2.amazonaws.com/host-html/CRISP_DM_Process.html
 
@@ -22,5 +18,9 @@ There are 3 questions what I want to answer from Stack Overflow Data - 2017:
 ## Libraries
 Python 3.6.5, pandas, numpy
 
-## Repo
-https://github.com/phucht95/ds-udacity-blog-post.git
+## Licensing, Authors, and Acknowledgements
+- Udacity for Code
+- Data Source: [Stack Overflow Data - 2017 Survey](https://www.kaggle.com/datasets/stackoverflow/so-survey-2017)
+- [Repository Git](https://github.com/phucht95/ds-udacity-blog-post)
+- Fell free to use code here
+
